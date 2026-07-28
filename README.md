@@ -26,10 +26,5 @@ I'm also open to other interesting projects.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=philippkoerner&show_icons=true&hide=issues&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippkoerner&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=philippkoerner&theme=github-dark&hide_border=true"/>
 </p>
