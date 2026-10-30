@@ -28,3 +28,9 @@ I'm also open to other interesting projects.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=philippkoerner&theme=github-dark&hide_border=true"/>
 </p>
+## Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/philippkoerner/philippkoerner/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/philippkoerner/philippkoerner/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/philippkoerner/philippkoerner/output/github-snake.svg" />
+</picture>
